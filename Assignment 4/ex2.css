@@ -1,0 +1,28 @@
+body{
+    padding: 50px;
+    width: 800px;
+    text-align: center;
+    padding-left: 25%;
+}
+.up{
+    color: blue;
+    background-color: rgb(133, 99, 48);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+p{
+    padding-top: 5%;
+}
+button{
+    background-color: rgb(255, 187, 0);
+    font-size: 15px;
+    display:inline-block;
+    color:rgb(75, 29, 29);
+    background: radius 15%;
+
+}
+footer{
+    background-color: aquamarine;
+    padding:5%;
+}
